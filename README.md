@@ -4,5 +4,6 @@
 - 🎧 Now headphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
 - 📷 Now camera uses: Sony Cyber-shot DSC-WX800
 - 💻 Now laptop uses: Lenovo Ideapad Slim 550
-- 🏠 Work at IBM Japan, belong to Business Concerge Services, Diversity and Inclusion, Human Resources. Work from home since 2020.3.4.
+- 🏢 Work at IBM Japan, belong to Business Concerge Services, Diversity and Inclusion, Human Resources.
+- 🏠 Work from home since 2020.3.4.
 - 🔑 Posts are my own.
