@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RuinDig
 - 👀 I’m using GitHub as collecting and archiving my own photos.
 - 🌱 I’m not good at understanding any codes like as C#, Java, Python, e.t.c.
-- :gb: I lived in London, UK about 5 years. 🇬🇧
+- I lived in London, UK about 5 years. :🇬🇧:
