@@ -4,4 +4,4 @@
 - ✈️ I lived in London, UK about 5 years.
 - 🎧 Now headphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
 - 📷 Now camera uses: Sony Cybershot DSC-WX800
-- 💻 Now laptop uses:Lenovo Ideapad Slim 550
+- 💻 Now laptop uses: Lenovo Ideapad Slim 550
