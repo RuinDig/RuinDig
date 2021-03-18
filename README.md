@@ -4,3 +4,4 @@
 - 🎧 Now headphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
 - 📷 Now camera uses: Sony Cyber-shot DSC-WX800
 - 💻 Now laptop uses: Lenovo Ideapad Slim 550
+- 🏠 Work from home since 2020.3.4
