@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RuinDig
 - 👀 I’m using GitHub as collecting and archiving my own photos.
-- 🌱 I’m not good at understanding any codes like as C#, Java, Python, e.t.c.
-- ✈️ I lived in London, UK about 5 years.
+- ✈️ I lived in London, UK about 5 years. 2002.7-2007.3
 - 🎧 Now headphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
 - 📷 Now camera uses: Sony Cybershot DSC-WX800
 - 💻 Now laptop uses: Lenovo Ideapad Slim 550
