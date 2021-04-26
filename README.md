@@ -2,8 +2,8 @@
 - 👀 I usually use GitHub as collecting and archiving my own photos.
 - ✈️ I lived in London, UK about 5 years. 2002.7-2007.3
 - 🎧 Now earphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
-- 📷 Now camera uses: Sony Cyber-shot DSC-WX800  Previously: CASIO High Speed EXILIM EX-FC100, CASIO High Speed EXILIM EX-ZR1600
-- 💻 Now laptop uses: Lenovo Ideapad Slim 550
+- 📷 Now camera use: Sony Cyber-shot DSC-WX800  Previously: CASIO High Speed EXILIM EX-FC100, CASIO High Speed EXILIM EX-ZR1600
+- 💻 Now laptop use: Lenovo Ideapad Slim 550
 - 🏢 Work at IBM Japan, belong to Business Concerge Services, Diversity and Inclusion, Human Resources.
 - 🏠 Work from home since 2020.3.4.
 - 🔑 Posts are my own.
