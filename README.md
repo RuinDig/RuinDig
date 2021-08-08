@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RuinDig
+- 👋 Hi, I’m [@RuinDig](https://github.com/RuinDig)
 - 👀 I usually use GitHub as collecting and archiving my own photos.
 - ✈️ I lived in London, UK about 5 years. 2002.7-2007.3 Went to The Japanese School in London.
 - 🎧 Now earphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
