@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@RuinDig](https://github.com/RuinDig)
 - 👀 I usually use GitHub as collecting and archiving my own photos.
 - ✈️ I lived in London, UK about 5 years. 2002.7-2007.3 Went to The Japanese School in London.
-- 
+
 ![The-Japanese-School-in-London](https://user-images.githubusercontent.com/20723919/128956650-59f40d1e-85eb-4d8c-bae2-8de77557a450.JPG)
 ![Piccadilly Circus](https://user-images.githubusercontent.com/20723919/128959485-4f5722c4-cda2-4da2-9d63-c4223b806b63.JPG)
 ![London_Summer](https://user-images.githubusercontent.com/20723919/128961419-f96fc26e-cc20-4f53-bd4a-d9205e1b1ae5.JPG)
