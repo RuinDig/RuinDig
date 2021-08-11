@@ -8,13 +8,13 @@
 ![Tower Bridge](https://user-images.githubusercontent.com/20723919/128961487-a4b00314-90cf-4b77-91bf-bbf48be328c9.JPG)
 ![Westminster Tower](https://user-images.githubusercontent.com/20723919/128961640-9fc60c90-3c75-4085-b840-4c2843783c52.JPG)
 
-https://user-images.githubusercontent.com/20723919/128967091-075d5712-f199-4f55-a049-4710d13819e8.MP4
+<div><video controls src="https://user-images.githubusercontent.com/20723919/128967091-075d5712-f199-4f55-a049-4710d13819e8.MP4" muted="false"></video></div>
 
-https://user-images.githubusercontent.com/20723919/128967089-ab94a587-1c8c-4333-a034-160c58eb0d26.MP4
+<div><video controls src="https://user-images.githubusercontent.com/20723919/128967089-ab94a587-1c8c-4333-a034-160c58eb0d26.MP4" muted="false"></video></div>
 
-https://user-images.githubusercontent.com/20723919/128967084-13d19e2d-5c22-4457-bb5a-f9a0c9bde4ce.MP4
+<div><video controls src="https://user-images.githubusercontent.com/20723919/128967084-13d19e2d-5c22-4457-bb5a-f9a0c9bde4ce.MP4" muted="false"></video></div>
 
-https://user-images.githubusercontent.com/20723919/128967093-2c07e6c0-ea04-4253-9d54-f1112deed74c.MP4
+<div><video controls src="https://user-images.githubusercontent.com/20723919/128967093-2c07e6c0-ea04-4253-9d54-f1112deed74c.MP4" muted="false"></video></div>
 
 - 🎧 Now earphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
 - 📷 Now camera use: Sony Cyber-shot DSC-WX800  Previously: CASIO High Speed EXILIM EX-FC100, CASIO High Speed EXILIM EX-ZR1600
