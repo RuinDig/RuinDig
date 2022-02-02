@@ -8,6 +8,10 @@
 - 🏠 Work from home since 2020.3.4.
 - 🔑 Posts are my own.
 
+[![RuinDig's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuinDig)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuinDig)](https://github.com/anuraghazra/github-readme-stats)
+
 ![The-Japanese-School-in-London](https://user-images.githubusercontent.com/20723919/128956650-59f40d1e-85eb-4d8c-bae2-8de77557a450.JPG)
 
 ![Tower Bridge](https://user-images.githubusercontent.com/20723919/128961487-a4b00314-90cf-4b77-91bf-bbf48be328c9.JPG)
