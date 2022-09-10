@@ -16,7 +16,7 @@
 
 # Westminster Tower
 
-![Westminster Tower](https://user-images.githubusercontent.com/20723919/128961640-9fc60c90-3c75-4085-b840-4c2843783c52.JPG)
+![Westminster Tower](https://user-images.githubusercontent.com/20723919/189471955-8086c264-fdba-4d4f-84c2-e71752dc4d03.JPG)
 
 # London Bus
 
