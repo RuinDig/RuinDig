@@ -8,6 +8,8 @@
 - 🏠 Work from home since 2020.3.4.
 - 🔑 Posts are my own.
 
+[Website](https://ruindig.github.io) / Blog(https://ruindig.hatenablog.jp) / [Twitter](https://twitter.com/RuinDig) / [Instagram](https://www.instagram.com/ruin.dig/) / [GitHub](https://github.com/RuinDig)
+
 [![RuinDig's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuinDig&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuinDig)](https://github.com/anuraghazra/github-readme-stats)
