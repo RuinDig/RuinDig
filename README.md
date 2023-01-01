@@ -10,7 +10,7 @@
 
 [Website](https://ruindig.github.io) / [Blog](https://ruindig.hatenablog.jp) / [note](https://note.com/ruindig) / [Twitter](https://twitter.com/RuinDig) / [Instagram](https://www.instagram.com/ruin.dig) / [YouTube](https://www.youtube.com/RuinDig) / [GitHub](https://github.com/RuinDig)
 
-[![github](https://img.shields.io/github/followers/RuinDig)](https://github.com/RuinDig)
+[![github](https://img.shields.io/github/followers/RuinDig?label=Follow%40RuinDig)](https://github.com/RuinDig)
 
 [![twitter](https://img.shields.io/twitter/follow/RuinDig)](https://twitter.com/RuinDig)
 
