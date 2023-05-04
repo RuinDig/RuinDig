@@ -2,7 +2,7 @@
 - 👀 I usually use GitHub as collecting and archiving my own photos.
 - ✈️ I lived in [London](https://github.com/RuinDig/RuinDig/blob/main/London.md), UK about 5 years. 2002.7-2007.3 Went to The Japanese School in London.
 - 🎧 Now earphone use: Jabra Elite 85t, AfterShokz OpenMove, Earsopen WR-3 CL-1001
-- 📷 Now camera use: Sony Cyber-shot DSC-WX800  Previously: CASIO High Speed EXILIM EX-FC100, CASIO High Speed EXILIM EX-ZR1600
+- 📷 Now camera use: Sony Cyber-shot DSC-HX99  Previously: CASIO High Speed EXILIM EX-FC100, CASIO High Speed EXILIM EX-ZR1600, Sony Cyber-shot DSC-WX800
 - 💻 Now laptop use: Lenovo Legion 560 Pro  Previously: Lenovo Ideapad Slim 550
 - 🏢 Work at IBM Japan, belong to Business Concerge Services, Diversity and Inclusion, Human Resources.
 - 🏠 Work from home since 2020.3.4.
