@@ -8,7 +8,7 @@
 - 🏠 Work from home since 2020.3.4.
 - 🔑 Posts are my own.
 
-[Website](https://ruindig.github.io) / [Blog](https://ruindig.hatenablog.jp) / [note](https://note.com/ruindig) / [Twitter](https://twitter.com/RuinDig) / [Instagram](https://www.instagram.com/ruin.dig) / [YouTube](https://www.youtube.com/RuinDig) / [GitHub](https://github.com/RuinDig)
+[Website](https://ruindig.github.io) / [Blog](https://ruindig.hatenablog.jp) / [note](https://note.com/ruindig) / [Twitter](https://twitter.com/RuinDig) / [Instagram](https://www.instagram.com/ruin.dig) / [YouTube](https://www.youtube.com/RuinDig) / [GitHub](https://github.com/RuinDig) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:RuinDig) / [Internet Archive](https://archive.org/details/@ruindig)
 
 [![github](https://img.shields.io/github/followers/RuinDig?label=Follow%40RuinDig&style=social)](https://github.com/RuinDig)
 
